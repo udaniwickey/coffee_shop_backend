@@ -1,0 +1,13 @@
+/Users/udaniwickramarachchi/Documents/DEA2/lec2/demo-student/src/main/java/com/nsbm/student/demostudent/dto/Order.java
+/Users/udaniwickramarachchi/Documents/DEA2/lec2/demo-student/src/main/java/com/nsbm/student/demostudent/DemoStudentApplication.java
+/Users/udaniwickramarachchi/Documents/DEA2/lec2/demo-student/src/main/java/com/nsbm/student/demostudent/controller/InventoryController.java
+/Users/udaniwickramarachchi/Documents/DEA2/lec2/demo-student/src/main/java/com/nsbm/student/demostudent/dto/Coffee.java
+/Users/udaniwickramarachchi/Documents/DEA2/lec2/demo-student/src/main/java/com/nsbm/student/demostudent/entity/Coffee.java
+/Users/udaniwickramarachchi/Documents/DEA2/lec2/demo-student/src/main/java/com/nsbm/student/demostudent/entity/Customer.java
+/Users/udaniwickramarachchi/Documents/DEA2/lec2/demo-student/src/main/java/com/nsbm/student/demostudent/dto/CustomerDto.java
+/Users/udaniwickramarachchi/Documents/DEA2/lec2/demo-student/src/main/java/com/nsbm/student/demostudent/controller/OrderController.java
+/Users/udaniwickramarachchi/Documents/DEA2/lec2/demo-student/src/main/java/com/nsbm/student/demostudent/repository/CoffeeRepository.java
+/Users/udaniwickramarachchi/Documents/DEA2/lec2/demo-student/src/main/java/com/nsbm/student/demostudent/repository/CustomerRepository.java
+/Users/udaniwickramarachchi/Documents/DEA2/lec2/demo-student/src/main/java/com/nsbm/student/demostudent/service/OrderService.java
+/Users/udaniwickramarachchi/Documents/DEA2/lec2/demo-student/src/main/java/com/nsbm/student/demostudent/dto/Inventory.java
+/Users/udaniwickramarachchi/Documents/DEA2/lec2/demo-student/src/main/java/com/nsbm/student/demostudent/controller/CustomerController.java
